@@ -89,7 +89,7 @@
         background-image:linear-gradient(to left,white,transparent), url('../Recursos/Imagenes_inicio/Cafe.jpg');
     
         /*width --- height*/
-        background-size: 90% 50vh;
+        background-size: 100% 50vh;
     }
     
     .img-slide.img2{
