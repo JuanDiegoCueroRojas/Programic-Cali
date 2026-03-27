@@ -1,6 +1,7 @@
 .navbar{
     width: 100%;
-    min-height: 12vh;
+    height: 70px;
+    padding: 0 20px;
     max-height: 50vh;
     background-color: rgb(214, 214, 208) !important;
     position: fixed;
