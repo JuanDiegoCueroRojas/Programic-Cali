@@ -24,14 +24,9 @@
 }
 
 .logo{
-    height: 12vh;
+    height: 50px;   /* tamaño fijo */
     width: auto;
-}
 
-/* para todas las demás imágenes */
-img{
-    max-width: 100%;
-    height: auto;
 
 }
 
