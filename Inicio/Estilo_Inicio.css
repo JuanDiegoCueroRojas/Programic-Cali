@@ -32,21 +32,23 @@ body{
 }
 .car.itm1{
 
-    background-image:url('../Recursos/Imagenes_inicio/selva_oscura_animales.jpg') ;
-    backdrop-filter: blur(10px);
-
+    background-image:url('../Recursos/Imagenes_inicio/energia_geotermica.jpg') ;
 }
 .car.itm2{
 
-    background-image:url('../Recursos/Imagenes_inicio/selva_animales_moos.jpg') ;
+    background-image:url('../Recursos/Imagenes_inicio/energia_solar.jpg') ;
 }
 .car.itm3{
 
-    background-image:url('../Recursos/Imagenes_inicio/selva_tropical.jpg') ;
+    background-image:url('../Recursos/Imagenes_inicio/energia_eolica.jpg') ;
 
 }
 
+.car.itm4{
 
+    background-image:url('../Recursos/Imagenes_inicio/energia_hidrica.jpg') ;
+
+}
 
 
 @media(min-width:791px){
@@ -156,7 +158,7 @@ body{
     
     .img-slide.img1{
     
-        background-image:linear-gradient(to left,white,transparent), url('../Recursos/Imagenes_inicio/Cafe.jpg');
+        background-image:linear-gradient(to left,white,transparent), url('../Recursos/Imagenes_inicio/energia_geotermica.jpg');
     
         /*width --- height*/
         background-size: 100% 70vh;
@@ -164,7 +166,7 @@ body{
     
     .img-slide.img2{
     
-        background-image:linear-gradient(to left,white,transparent), url('../Recursos/Imagenes_inicio/Fruta.jpg');
+        background-image:linear-gradient(to left,white,transparent), url('../Recursos/Imagenes_inicio/energia_solar.jpg');
     
         /*width --- height*/
         background-size: 100% 70vh;
@@ -173,7 +175,7 @@ body{
     
     .img-slide.img3{
     
-        background-image:linear-gradient(to left,white,transparent), url('../Recursos/Imagenes_inicio/platacion_aceite.jpg');
+        background-image:linear-gradient(to left,white,transparent), url('../Recursos/Imagenes_inicio/energia_eolica.jpg');
     
         /*width --- height*/
         background-size: 100% 70vh;

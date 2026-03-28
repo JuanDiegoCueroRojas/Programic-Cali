@@ -16,7 +16,7 @@ function resultado(){
 
     const porcentaje= ((twh*100)/porcent).toFixed(4)
 
-    const res="Su consumo promedio mensual fue de "+valor+"kwh, lo cual es quivalente al "+ porcentaje+"% a la totalidad connsumida de la fuente hidrica producida en el pais Colombiano con respecto al año 2021";
+    const res="Su consumo promedio mensual fue de "+valor+"kwh, lo cual es quivalente al "+ porcentaje+"% a la totalidad connsumida de la fuente geotermica producida en el pais Colombiano con respecto al año 2021";
 
 
     if(valor != ""){

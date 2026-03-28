@@ -10,13 +10,20 @@ img {
     width: 100%;
     height: 70px;
     padding: 0 20px;
-    background-color: rgb(214, 214, 208) !important;
+    background: linear-gradient(to right, #172d57, #2a5298);
     position: fixed;
     top: 0;
     z-index: 1000;
     display: flex;
     align-items: center;
 }
+.navbar-nav a{
+    color:#ffac14;
+}
+.nav-link{
+     color:#ffac14;
+}
+
 
 /* ===== LOGO (AQUÍ ESTABA EL ERROR) ===== */
 .logo {
